@@ -1,2 +1,2 @@
 # Gitone
-First
+First Github repository
